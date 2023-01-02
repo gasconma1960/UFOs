@@ -136,8 +136,11 @@ Initialize your repository with a README, and write your analysis of Deliverable
     Dana is looking for UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
 2. **Results**: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
     First, If someone will like to use our HTML and filter the data by an specific, date, city, state, country or shape the just need to type on any of the blank space the information that needs to be search.
-    The website will look like the screen shot below:
+    The website will look like the screen shot below as well as th **Code**:
 ![image](https://user-images.githubusercontent.com/112348240/208985172-d0026e9e-9ab0-4910-9ee1-03f3d6196a00.png)
+
+![image](https://user-images.githubusercontent.com/112348240/210194137-6737ac88-d875-4ff6-b5df-5c3f914e07c9.png)
+
 
 3. **Summary**: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
