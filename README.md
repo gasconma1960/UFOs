@@ -133,10 +133,15 @@ function updateFilters() {
 Initialize your repository with a README, and write your analysis of Deliverable 1. For your written analysis, be sure to use complete and coherent sentences. Your written analysis should contain three sections, which cover the following:
 
 1. **Overview of Project**: Explain the purpose of this analysis.
+    Dana is looking for UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, you’ll add table filters for the city, state, country, and shape.
 2. **Results**: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
+    First, If someone will like to use our HTML and filter the data by an specific, date, city, state, country or shape the just need to type on any of the blank space the information that needs to be search.
+    The website will look like the screen shot below:
+![image](https://user-images.githubusercontent.com/112348240/208985172-d0026e9e-9ab0-4910-9ee1-03f3d6196a00.png)
+
 3. **Summary**: In a summary statement, describe one drawback of this new design and two recommendations for further development.
 
-![image](https://user-images.githubusercontent.com/112348240/208985172-d0026e9e-9ab0-4910-9ee1-03f3d6196a00.png)
+
 
 
 ![image](https://user-images.githubusercontent.com/112348240/208985301-4e256f79-fb2d-4af9-a616-2f8d5f942042.png)
