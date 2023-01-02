@@ -5,7 +5,7 @@ Dana’s webpage and dynamic table are working as intended, but she’d like to 
 ## Deliverable 1: Filter UFO sightings on multiple criteria
 Using JavaScript and HTML, you’ll modify the code in your index.html file to create more table filters. In addition to the date filter you created in this module, you’ll add filters for the city, state, country, and shape, as shown in the following image:
 
-![image](https://user-images.githubusercontent.com/112348240/208986075-ca34daab-0009-430d-b455-e9d3835e05a5.png)
+
 
 Using JavaScript, you’ll replace the `handleClick()` function in your `app.js` file with a new function that saves the element, value, and id of the filter that was changed. Then, you’ll create a new function to loop through the dataset and keep only the results that match the search criteria. The webpage will be updated with the search criteria after pressing "Enter".
 
@@ -137,17 +137,27 @@ Initialize your repository with a README, and write your analysis of Deliverable
 2. **Results**: Describe to Dana how someone might use the new webpage by walking her through the process of using the search criteria. Use images of your webpage during the filtering process to support your explanation.
     First, If someone will like to use our HTML and filter the data by an specific, date, city, state, country or shape the just need to type on any of the blank space the information that needs to be search.
     The website will look like the screen shot below as well as the **Code**:
-![image](https://user-images.githubusercontent.com/112348240/208985172-d0026e9e-9ab0-4910-9ee1-03f3d6196a00.png)
-
-![image](https://user-images.githubusercontent.com/112348240/210194137-6737ac88-d875-4ff6-b5df-5c3f914e07c9.png)
+ ![image](https://user-images.githubusercontent.com/112348240/210199323-289813b6-0ffb-4ae9-a188-21a424bf1e95.png)
+ ![image](https://user-images.githubusercontent.com/112348240/210194137-6737ac88-d875-4ff6-b5df-5c3f914e07c9.png)
+ 
+ ![image](https://user-images.githubusercontent.com/112348240/210197787-da0045d7-5538-4e71-af35-670aae9a95b2.png)
+ 
+    Second, it is important to put the date exactly as it shows on the table for example: 1/10/2010 not 1/10. 
+ ![image](https://user-images.githubusercontent.com/112348240/210197859-5f51f2de-ce3b-441c-b9b1-db4ad496f307.png)
+    Third, you could click on the filter table button and it will display data filtered after the element to search is been input on any of the tabs 
 
 
 3. **Summary**: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+   1. When we are using Javascript there are few thing that we have to keep on mind, one is Case Sensitive, on the filter if we dont type as it is on the table the data when be displayed or filtered.
+   2. As I mentioned above the date range needs to be type as appear on the table otherwise wont be any data see below:
+  
+![image](https://user-images.githubusercontent.com/112348240/210199975-4a6d88ec-dc3d-4191-914f-4d6df07e48f0.png)
+
+    
+
+
+Module 12 Challenge by Marisol Gascon Linarez
 
 
 
-
-![image](https://user-images.githubusercontent.com/112348240/208985301-4e256f79-fb2d-4af9-a616-2f8d5f942042.png)
-
-![image](https://user-images.githubusercontent.com/112348240/208985422-1b70dabf-c8ed-4bbd-96dd-9346b4b77adb.png)
 
